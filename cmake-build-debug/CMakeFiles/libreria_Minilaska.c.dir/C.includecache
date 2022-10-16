@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mfard/MiniLaska/libreria_Minilaska.h
+
+C:/Users/mfard/MiniLaska/main.c
+stdio.h
+-
+stdlib.h
+-
+libreria_Minilaska.h
+C:/Users/mfard/MiniLaska/libreria_Minilaska.h
+
